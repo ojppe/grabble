@@ -6,7 +6,6 @@ Still in early development. features will include:
 - Multiplayer 2-4
 - Customizable board layout
 - Different time controls
-- Definition lookup
 - Game archive
 - Statistics
 - Rankings
