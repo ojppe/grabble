@@ -1,5 +1,5 @@
 # [Grabble](https://grabble.org)
-Open Scrabble server based on [lila](https://github.com)
+Open Scrabble server based on [lila](https://github.com/lichess-org/lila)
 
 Still in early development. features will include:
 - Tournaments
