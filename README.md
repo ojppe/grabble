@@ -19,14 +19,15 @@ We plan to support the following dictionaries:
 
 Dutch 🇳🇱
 ---------------
-SWL2025 (~1 100 000 words)
+SWL25 (~1 100 000 words)
 
 English 🇬🇧🇺🇸
 ---------------
-NWL2023 (~200 000 words)
+CSW24 (~300 000 words)
 
 French 🇫🇷
 ---------------
+ODS9 (~400 000 words)
 
 German 🇩🇪
 ---------------
