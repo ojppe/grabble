@@ -1,7 +1,7 @@
 # [Grabble](https://grabble.org)
 Open Scrabble server based on [lila](https://github.com/lichess-org/lila)
 
-Still in early development. features will include:
+Still in early development. Features include:
 - Tournaments
 - Multiplayer 2-4
 - Customizable board layout
@@ -30,8 +30,15 @@ ODS9 (~400 000 words)
 
 German 🇩🇪
 ---------------
-
 Spanish 🇪🇸
 ---------------
-
-Possibly more!
+Portuguese 🇵🇹
+---------------
+Danish 🇩🇰
+---------------
+Norse 🇳🇴
+---------------
+Swedish 🇸🇪
+---------------
+Finnish 🇫🇮
+---------------
