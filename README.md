@@ -14,7 +14,6 @@ Still in early development. Features include:
 - Trainer
 
 # Dictionaries
-
 Dutch 🇳🇱
 ---------------
 SWL25 (~1 100 000 words)
