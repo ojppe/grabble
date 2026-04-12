@@ -14,7 +14,6 @@ Still in early development. Features include:
 - Trainer
 
 # Dictionaries
-We plan to support the following dictionaries:
 
 Dutch 🇳🇱
 ---------------
