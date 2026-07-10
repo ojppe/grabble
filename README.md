@@ -1,7 +1,7 @@
 # [Grabble](https://grabble.org)
 Open Scrabble server based on [lila](https://github.com/lichess-org/lila)
 
-Still in early development. Features include:
+Features:
 - Tournaments
 - Multiplayer 2-4
 - Customizable board layout
